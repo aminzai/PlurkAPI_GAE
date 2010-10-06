@@ -1,0 +1,3 @@
+class PlurkError(Exception):
+    pass
+
